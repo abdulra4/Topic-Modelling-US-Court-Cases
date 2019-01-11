@@ -1,7 +1,7 @@
 import os, sys, random, codecs
 import pickle, datetime, logging
 
-import memory_profiler, line_profiler
+# import memory_profiler, line_profiler
 
 import lzma, json
 from pathlib import Path
