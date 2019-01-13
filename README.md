@@ -64,7 +64,7 @@ Overall, running the complete processes for one state, we can reduce the total
 run-time by approximately 40 per cent. These results are particularly helpful
 when used at scale.
 
-LDA Visualisation Snapshot
+**LDA Visualisation Snapshot**
 ![alt text](https://github.com/abdulra4/Topic-Modelling-US-Supreme-Court-Cases/blob/master/lda_vis_multi.png "LDA Visualisation")
 
 Useful Links
