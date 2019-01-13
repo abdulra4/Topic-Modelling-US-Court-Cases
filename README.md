@@ -43,7 +43,7 @@ Caselaw Access Project (CAP)
 ----------------------------
 
 CAP is a Harvard Law School Library Innovation Lab Project that has collated all
-official, book-published United States case law --- every volume designated as
+official, book-published United States case law - every volume designated as
 an official report of decisions by a court within the United States. It includes
 all state courts, federal courts, and territorial courts for American Samoa,
 Dakota Territory, Guam, Native American Courts, Navajo Nation, and the Northern
@@ -66,7 +66,7 @@ when used at scale.
 
 Useful Links
 ------------
-[Case Law Access Project] (https://case.law/)
-[Gensim Library] (https://radimrehurek.com/gensim/index.html)
-[Abhijeet Kumar] (https://github.com/abhijeet3922/Topic-Modelling-on-Wiki-corpus)
-[Susan Li] (https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
+[Case Law Access Project](https://case.law/)
+[Gensim Library](https://radimrehurek.com/gensim/index.html)
+[Abhijeet Kumar](https://github.com/abhijeet3922/Topic-Modelling-on-Wiki-corpus)
+[Susan Li](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
